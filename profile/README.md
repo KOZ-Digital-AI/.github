@@ -15,79 +15,83 @@ KOZ Digital AI is a UK-based company specializing in AI-driven solutions and dig
 
 <table>
   <tr>
-    <td><b>🤖 Jarvis</b></td>
+    <td><b>🤖 <a href="https://github.com/KOZ-Digital-AI/Jarvis">Jarvis</a></b></td>
     <td>Intelligent assistant system</td>
   </tr>
   <tr>
-    <td><b>🧠 jarvis-agent</b></td>
+    <td><b>🧠 <a href="https://github.com/KOZ-Digital-AI/jarvis-agent">jarvis-agent</a></b></td>
     <td>Python-based agent for Jarvis</td>
   </tr>
   <tr>
-    <td><b>💬 Beiba_tg</b></td>
+    <td><b>💬 <a href="https://github.com/KOZ-Digital-AI/Beiba_tg">Beiba_tg</a></b></td>
     <td>Telegram bot solution</td>
   </tr>
   <tr>
-    <td><b>📺 Streaming_Kairat</b></td>
+    <td><b>📺 <a href="https://github.com/KOZ-Digital-AI/Streaming_Kairat">Streaming_Kairat</a></b></td>
     <td>Streaming platform</td>
   </tr>
   <tr>
-    <td><b>🧩 koz-boilerplates</b></td>
+    <td><b>🧩 <a href="https://github.com/KOZ-Digital-AI/koz-boilerplates">koz-boilerplates</a></b></td>
     <td>Collection of project templates</td>
   </tr>
   <tr>
-    <td><b>📱 fcKairat</b></td>
+    <td><b>📱 <a href="https://github.com/KOZ-Digital-AI/fcKairat">fcKairat</a></b></td>
     <td>Flutter/Dart mobile application</td>
   </tr>
   <tr>
-    <td><b>🔍 im-reviews</b></td>
+    <td><b>🔍 <a href="https://github.com/KOZ-Digital-AI/im-reviews">im-reviews</a></b></td>
     <td>TypeScript review system</td>
   </tr>
   <tr>
-    <td><b>💭 im-answer</b></td>
+    <td><b>💭 <a href="https://github.com/KOZ-Digital-AI/im-answer">im-answer</a></b></td>
     <td>TypeScript answer service</td>
   </tr>
   <tr>
-    <td><b>📊 template-PM</b></td>
+    <td><b>📊 <a href="https://github.com/KOZ-Digital-AI/template-PM">template-PM</a></b></td>
     <td>Python project management template</td>
   </tr>
   <tr>
-    <td><b>📝 pm1</b></td>
+    <td><b>📝 <a href="https://github.com/KOZ-Digital-AI/pm1">pm1</a></b></td>
     <td>Python project management system</td>
   </tr>
   <tr>
-    <td><b>⚡ huly-express</b></td>
+    <td><b>⚡ <a href="https://github.com/KOZ-Digital-AI/huly-express">huly-express</a></b></td>
     <td>TypeScript project</td>
   </tr>
   <tr>
-    <td><b>🍕 pizza-assistant</b></td>
+    <td><b>🍕 <a href="https://github.com/KOZ-Digital-AI/pizza-assistant">pizza-assistant</a></b></td>
     <td>TypeScript assistant</td>
   </tr>
   <tr>
-    <td><b>👥 im-hr</b></td>
+    <td><b>👥 <a href="https://github.com/KOZ-Digital-AI/im-hr">im-hr</a></b></td>
     <td>TypeScript HR system</td>
   </tr>
   <tr>
-    <td><b>📋 im-parser</b></td>
+    <td><b>📋 <a href="https://github.com/KOZ-Digital-AI/im-parser">im-parser</a></b></td>
     <td>TypeScript data parser</td>
   </tr>
   <tr>
-    <td><b>📨 im-telegram</b></td>
+    <td><b>📨 <a href="https://github.com/KOZ-Digital-AI/im-telegram">im-telegram</a></b></td>
     <td>TypeScript Telegram integration</td>
   </tr>
   <tr>
-    <td><b>🗺️ yandexMapsParser</b></td>
+    <td><b>🗺️ <a href="https://github.com/KOZ-Digital-AI/yandexMapsParser">yandexMapsParser</a></b></td>
     <td>Python Yandex Maps parser</td>
   </tr>
   <tr>
-    <td><b>🧪 im-gpt-service</b></td>
+    <td><b>🧪 <a href="https://github.com/KOZ-Digital-AI/im-gpt-service">im-gpt-service</a></b></td>
     <td>TypeScript GPT service</td>
   </tr>
   <tr>
-    <td><b>📥 gitingestapi</b></td>
+    <td><b>📥 <a href="https://github.com/KOZ-Digital-AI/gitingestapi">gitingestapi</a></b></td>
     <td>Python Git ingestion API (MIT License)</td>
   </tr>
   <tr>
-    <td><b>⚙️ .github</b></td>
+    <td><b>💬 <a href="https://github.com/KOZ-Digital-AI/london-whatsapp-bot">london-whatsapp-bot</a></b></td>
+    <td>Python WhatsApp bot (MIT License)</td>
+  </tr>
+  <tr>
+    <td><b>⚙️ <a href="https://github.com/KOZ-Digital-AI/.github">.github</a></b></td>
     <td>GitHub configuration</td>
   </tr>
 </table>
