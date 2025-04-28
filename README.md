@@ -1,6 +1,6 @@
 # KOZ Digital AI
 
-![KOZ Digital AI](https://via.placeholder.com/150?text=KOZ)
+![KOZ Digital AI](https://avatars.githubusercontent.com/u/208604055?s=400&u=5ddd29a9dabd2b97c71854c1553339ce4e52b9e1&v=4)
 
 ## About Us
 
