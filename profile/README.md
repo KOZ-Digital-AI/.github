@@ -40,11 +40,19 @@ KOZ Digital AI is a UK-based company specializing in AI-driven solutions and dig
   </tr>
   <tr>
     <td><b>🔍 im-reviews</b></td>
-    <td>TypeScript project</td>
+    <td>TypeScript review system</td>
+  </tr>
+  <tr>
+    <td><b>💭 im-answer</b></td>
+    <td>TypeScript answer service</td>
   </tr>
   <tr>
     <td><b>📊 template-PM</b></td>
     <td>Python project management template</td>
+  </tr>
+  <tr>
+    <td><b>📝 pm1</b></td>
+    <td>Python project management system</td>
   </tr>
   <tr>
     <td><b>⚡ huly-express</b></td>
@@ -57,6 +65,26 @@ KOZ Digital AI is a UK-based company specializing in AI-driven solutions and dig
   <tr>
     <td><b>👥 im-hr</b></td>
     <td>TypeScript HR system</td>
+  </tr>
+  <tr>
+    <td><b>📋 im-parser</b></td>
+    <td>TypeScript data parser</td>
+  </tr>
+  <tr>
+    <td><b>📨 im-telegram</b></td>
+    <td>TypeScript Telegram integration</td>
+  </tr>
+  <tr>
+    <td><b>🗺️ yandexMapsParser</b></td>
+    <td>Python Yandex Maps parser</td>
+  </tr>
+  <tr>
+    <td><b>🧪 im-gpt-service</b></td>
+    <td>TypeScript GPT service</td>
+  </tr>
+  <tr>
+    <td><b>📥 gitingestapi</b></td>
+    <td>Python Git ingestion API (MIT License)</td>
   </tr>
   <tr>
     <td><b>⚙️ .github</b></td>
